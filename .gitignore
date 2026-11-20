@@ -1,0 +1,7 @@
+# Carpetas generadas por Visual Studio / .NET (Política de clase: no subir bin ni obj)
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
