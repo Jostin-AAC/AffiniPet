@@ -4,7 +4,7 @@
 **Proyecto:** AffiniPet — Sistema de Gestión de Adopciones Basada en Compatibilidad  
 **Asignatura:** Diseño y Programación de Software (ITID 543)  
 **Docente:** Ing. José Naranjo  
-**Institución:** Escuela Politécnica Nacional (EPN) — Facultad de Ingeniería de Sistemas  
+**Institución:** Escuela Politécnica Nacional (EPN) — Facultad de Ingeniería Eléctrica y Electrónica
 **Autores:** Jostin Aldas (Líder Técnico), Paul Olmos (Analista de Negocio), Galo Castillo (Modelado y QA)  
 **Fecha:** 22 de noviembre de 2026  
 
