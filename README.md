@@ -12,7 +12,7 @@ Aplicación de escritorio desarrollada en **C# con Windows Forms (.NET 8)** para
 
 **Asignatura:** Diseño y Programación de Software (ITID 543)  
 **Docente:** Ing. José Naranjo  
-**Institución:** Escuela Politécnica Nacional (EPN) — Facultad de Ingeniería de Sistemas  
+**Institución:** Escuela Politécnica Nacional (EPN) — Facultad de Ingeniería Eléctrica y Electrónica
 
 ---
 
